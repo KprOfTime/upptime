@@ -1,7 +1,7 @@
 url: $PUBLIC_IP
 status: down
 code: 400
-responseTime: 149
-lastUpdated: 2021-11-10T23:04:50.559Z
+responseTime: 122
+lastUpdated: 2021-11-11T23:04:51.923Z
 startTime: Wed May 19 2021 15:55:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
