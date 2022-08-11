@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/dream-scar.net",
     "slug": "dream-scar",
     "status": "up",
-    "uptime": "62.95%",
+    "uptime": "63.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.74%",
+    "uptimeYear": "71.01%",
     "time": 195,
-    "timeDay": 274,
-    "timeWeek": 254,
-    "timeMonth": 249,
+    "timeDay": 186,
+    "timeWeek": 245,
+    "timeMonth": 247,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-06-30": 33,
@@ -123,8 +123,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 1440,
       "2021-08-13": 1440,
-      "2021-08-12": 1440,
-      "2021-08-11": 1440
+      "2021-08-12": 1440
     }
   }
 ]
