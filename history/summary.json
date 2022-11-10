@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dream-scar.net.ico",
     "slug": "dream-scar",
     "status": "up",
-    "uptime": "69.11%",
+    "uptime": "69.12%",
     "uptimeDay": "28.55%",
     "uptimeWeek": "89.79%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "95.69%",
-    "time": 210,
-    "timeDay": 238,
-    "timeWeek": 267,
+    "uptimeYear": "95.72%",
+    "time": 211,
+    "timeDay": 269,
+    "timeWeek": 274,
     "timeMonth": 255,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -34,8 +34,7 @@
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
-      "2021-11-11": 1440,
-      "2021-11-10": 1440
+      "2021-11-11": 1440
     }
   }
 ]
