@@ -4,7 +4,7 @@
     "url": "https://dream-scar.net",
     "icon": "https://icons.duckduckgo.com/ip3/dream-scar.net.ico",
     "slug": "dream-scar",
-    "status": "up",
+    "status": "down",
     "uptime": "84.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 290,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-03-07": 75,
       "2023-12-17": 159,
       "2023-12-16": 1440,
